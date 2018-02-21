@@ -1,0 +1,13 @@
+{
+  "_id": "5a27660a9bd7021a55d5bdd5",
+  "nodeId": "5a2766029bd7021a55d5bd82",
+  "type": "include_in_copy:0.0.1:local:k2fj23443f4",
+  "data": {
+    "slugs": [
+      "learn"
+    ]
+  },
+  "active": true,
+  "createdAt": 1512531466774,
+  "updatedAt": null
+}

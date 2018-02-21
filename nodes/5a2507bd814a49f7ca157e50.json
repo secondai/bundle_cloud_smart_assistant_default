@@ -1,0 +1,11 @@
+{
+  "_id": "5a2507bd814a49f7ca157e50",
+  "nodeId": "5a2507bc814a49f7ca157e3f",
+  "type": "text_tag:0.0.1:local:239fj23",
+  "data": {
+    "text": "ping:pong"
+  },
+  "active": true,
+  "createdAt": 1512376253901,
+  "updatedAt": null
+}

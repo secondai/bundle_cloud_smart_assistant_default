@@ -1,0 +1,11 @@
+{
+  "_id": "5a2f2c814656092981e5fcad",
+  "nodeId": "5a2f2c794656092981e5fca4",
+  "type": "text_tag:0.0.1:local:239fj23",
+  "data": {
+    "text": "ACTION: return a token for uploading a file to S3"
+  },
+  "active": true,
+  "createdAt": 1513041025219,
+  "updatedAt": null
+}

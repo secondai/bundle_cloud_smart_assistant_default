@@ -1,0 +1,11 @@
+{
+  "_id": "5a29b1e2383ecc47290677d1",
+  "nodeId": "5a29b1de383ecc472906779e",
+  "type": "text_tag:0.0.1:local:239fj23",
+  "data": {
+    "text": "run_action call handler!"
+  },
+  "active": true,
+  "createdAt": 1512681954204,
+  "updatedAt": null
+}

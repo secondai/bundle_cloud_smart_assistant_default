@@ -1,0 +1,11 @@
+{
+  "_id": "5a2766ab9bd7021a55d5be8d",
+  "nodeId": "5a2766a89bd7021a55d5be7c",
+  "type": "order_level:0.0.1:local:382hf273",
+  "data": {
+    "level": 1000
+  },
+  "active": true,
+  "createdAt": 1512531627962,
+  "updatedAt": null
+}

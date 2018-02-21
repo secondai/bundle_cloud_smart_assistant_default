@@ -1,0 +1,11 @@
+{
+  "_id": "5a2507b4814a49f7ca157dd9",
+  "nodeId": "5a2507b1814a49f7ca157db8",
+  "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
+  "data": {
+    "typeMatch": "run_action_sequence:0.0.1:local:293fh8239hsdf23f"
+  },
+  "active": true,
+  "createdAt": 1512376244271,
+  "updatedAt": null
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "5a2507b3814a49f7ca157dc8",
+  "nodeId": "5a2507b1814a49f7ca157db8",
+  "type": "text_tag:0.0.1:local:239fj23",
+  "data": {
+    "text": "run_action_sequence: This is for handling a sequence of actions!"
+  },
+  "active": true,
+  "createdAt": 1512376243191,
+  "updatedAt": null
+}

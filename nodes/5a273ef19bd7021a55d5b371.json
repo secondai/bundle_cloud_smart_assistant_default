@@ -1,0 +1,13 @@
+{
+  "_id": "5a273ef19bd7021a55d5b371",
+  "type": "internal_user:0.0.1:local:98h32",
+  "data": {
+    "roles": [
+      "root"
+    ],
+    "passphrase": "testuserpassphrase"
+  },
+  "active": true,
+  "createdAt": 1512521457317,
+  "updatedAt": 1512522241228
+}

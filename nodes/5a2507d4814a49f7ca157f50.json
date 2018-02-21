@@ -1,0 +1,11 @@
+{
+  "_id": "5a2507d4814a49f7ca157f50",
+  "type": "capability:0.0.1:local:187h78h23",
+  "data": {
+    "key": "TalkToSecond",
+    "version": "1.0.0"
+  },
+  "active": true,
+  "createdAt": 1512376276508,
+  "updatedAt": null
+}
