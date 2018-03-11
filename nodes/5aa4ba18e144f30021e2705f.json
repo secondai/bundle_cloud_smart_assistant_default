@@ -1,0 +1,11 @@
+{
+  "_id": "5aa4ba18e144f30021e2705f",
+  "nodeId": "5aa4ba17e144f30021e2705c",
+  "type": "text_tag:0.0.1:local:239fj23",
+  "data": {
+    "text": "ACTION: adds ExternalIdentity to requestsCache, according to the token that is passed in"
+  },
+  "active": true,
+  "createdAt": 1520744984403,
+  "updatedAt": null
+}

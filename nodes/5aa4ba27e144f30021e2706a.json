@@ -1,0 +1,11 @@
+{
+  "_id": "5aa4ba27e144f30021e2706a",
+  "nodeId": "5aa4ba21e144f30021e27068",
+  "type": "simple_compare:0.0.1:local:298fy38y283",
+  "data": {
+    "code": "(()=>{\n  \n  // has childNode of correct type! \n  return INPUT.data.inputNode;\n  \n})()"
+  },
+  "active": true,
+  "createdAt": 1520744999436,
+  "updatedAt": null
+}

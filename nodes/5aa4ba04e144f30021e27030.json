@@ -1,0 +1,12 @@
+{
+  "_id": "5aa4ba04e144f30021e27030",
+  "nodeId": "5aa4ba03e144f30021e2702d",
+  "type": "code:0.0.1:local:32498h32f2",
+  "data": {
+    "code": "(()=>{\n  \n  return new Promise(async (resolve,reject)=>{\n    try {\n      \n      // Handles \"startup\" on a cloud server \n      console.log('Startup on Cloud OK!');\n      \n      return resolve({\n        type: 'boolean:...',\n        data: true\n      });\n      \n    }catch(err){\n      resolve({ERROR: true, err: err.toString()});\n    }\n    \n  })\n\n  \n})()",
+    "key": "e32dd823-be68-4360-917a-48c0c8314bc5"
+  },
+  "active": true,
+  "createdAt": 1520744964353,
+  "updatedAt": null
+}
